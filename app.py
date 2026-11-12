@@ -1,1 +1,1 @@
-print('Hello GitHub! The Nacho Lord has arrived!')
+print('Updated successful!')
